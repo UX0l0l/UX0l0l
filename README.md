@@ -1,1 +1,12 @@
 ![My Stats](https://github-readme-stats.vercel.app/api?username=UX0l0l)
+
+![](https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=python&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Flask-informational?style=for-the-badge&logo=flask&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/HTML-informational?style=for-the-badge&logo=html5&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Zapier-informational?style=for-the-badge&logo=zapier&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Airtable-informational?style=for-the-badge&logo=airtable&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/SQLite3-informational?style=for-the-badge&logo=sqlite&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/JSON-informational?style=for-the-badge&logo=json&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/YAML-informational?style=for-the-badge&logo=yaml&logoColor=white&color=blueviolet)
