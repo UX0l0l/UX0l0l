@@ -7,7 +7,7 @@
 ![](https://img.shields.io/badge/Zapier-informational?style=for-the-badge&logo=zapier&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Airtable-informational?style=for-the-badge&logo=airtable&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/SQLite3-informational?style=for-the-badge&logo=sqlite&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Supabase-informational?style=for-the-badge&logo=supabase&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/JSON-informational?style=for-the-badge&logo=json&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/YAML-informational?style=for-the-badge&logo=yaml&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Git-informational?style=for-the-badge&logo=git&logoColor=white&color=blueviolet)
